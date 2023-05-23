@@ -9,7 +9,7 @@
 </p>
 
 Foi criado um protótipo de aplicativo para o Saúde App, acessível em:
-https://github.com/Bigodrigo/SaudeApp
+https://github.com/kauanvoltz/SaudeApp
 
 ## 🚀 Tecnologias
 
