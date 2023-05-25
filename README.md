@@ -1,5 +1,4 @@
 # Notificações Saúde Web
-## (Atualizado) - 23/05/2023
 ### Este projeto é um site que permite enviar mensagens personalizadas para um celular que tenha instalado o aplicativo do Saúde App!
 
 <p align="center">
@@ -29,9 +28,6 @@ Para fazer a comunicação junto a este aplicativo, um funcionário pode localiz
 
 Todas as informações ficam salvas no [BD do Firebase](/assets/firebase.png), onde guardamos a mensagens, suas respostas e suas datas de envio.
 Fizemos uma verificação onde somente os funcionários do financeiro podem enviar as mensagens, o site permite criar contas teste e consultar a situação dos funcionários, seus dados e suas mensagens!
-
-Este site estará rodando na Vercel acessível em:
-https://saude-web.vercel.app/
 
 É importante ressaltar que algumas informações são sigilosas e não foram enviadas para o Git! As configurações (credenciais) do FB são específicas para cada usuário! Se vc deseja clonar este projeto é importante saber que estes arquivos precisam ser alterados!
 
